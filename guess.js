@@ -1,3 +1,4 @@
+"use strict";
 document.querySelector(".container").classList.add("hide");
 
 let maxNumb = 100;
